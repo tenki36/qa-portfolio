@@ -1,0 +1,7 @@
+API 테스트 케이스 3
+
+메서드: GET
+URL: https://jsonplaceholder.typicode.com/todos/5
+예상 결과: ID 5번 todo 데이터 반환
+실제 결과: userId 1, id 5, title, completed 필드 포함한 JSON 반환
+결과: ✅ 통과
